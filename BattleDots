@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Battle Dots Clash</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: linear-gradient(160deg, #020617, #0f172a);
+      color: #f8fafc;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 10px;
+      text-align: center;
+    }
+
+    .tagline {
+      text-align: center;
+      font-size: 1.3rem;
+      font-weight: 600;
+      color: #38bdf8;
+      margin-bottom: 20px;
+    }
+
+    .description {
+      text-align: center;
+      color: #cbd5e1;
+      max-width: 700px;
+      margin: 0 auto 40px;
+    }
+
+    .section {
+      background: rgba(255,255,255,0.05);
+      border-radius: 16px;
+      padding: 20px;
+      margin-bottom: 20px;
+      border: 1px solid rgba(255,255,255,0.06);
+    }
+
+    h2 {
+      margin-top: 0;
+      font-size: 1.2rem;
+      margin-bottom: 10px;
+      color: #f8fafc;
+    }
+
+    ul {
+      padding-left: 20px;
+      margin: 0;
+      color: #cbd5e1;
+    }
+
+    li {
+      margin-bottom: 6px;
+    }
+
+    .closing {
+      text-align: center;
+      margin-top: 30px;
+      font-size: 1.3rem;
+      font-weight: 600;
+      color: #facc15;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+
+    <h1>Battle Dots Clash</h1>
+
+    <div class="tagline">
+      Every shot matters.
+    </div>
+
+    <p class="description">
+      Battle Dots Clash is a fast-paced arcade strategy game where physics,
+      timing, and smart decisions determine how long you survive.
+      Absorb ally dots, destroy enemies, manage your moves carefully,
+      and climb the ranks through increasingly difficult battles.
+    </p>
+
+    <div class="section">
+      <h2>How to Play</h2>
+      <ul>
+        <li>Pull, aim, and launch your player dot</li>
+        <li>Absorb ally dots to gain power</li>
+        <li>Destroy enemy dots before they destroy you</li>
+        <li>Collect moves dots to extend your run</li>
+        <li>Use strategy — every shot changes the board</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Special Dots & Effects</h2>
+      <ul>
+        <li>Blast — clears enemies in a powerful explosion</li>
+        <li>Split — creates temporary clone dots</li>
+        <li>Shield — protects you from incoming damage</li>
+        <li>Random dots — unpredictable effects and values</li>
+        <li>Danger dots — high-risk targets that can end runs quickly</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>What Makes It Different</h2>
+      <ul>
+        <li>Physics-based gameplay with satisfying collisions</li>
+        <li>Strategic resource management using limited moves</li>
+        <li>Fast-paced “one more try” arcade progression</li>
+        <li>Tier rankings based on performance and efficiency</li>
+        <li>Every level creates new tactical decisions</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Progress & Challenge</h2>
+      <ul>
+        <li>Difficulty increases as you survive longer</li>
+        <li>Persistent checkpoints help you push further</li>
+        <li>Efficiency and combos improve your final rank</li>
+        <li>Climb through evolving tiers and tougher boards</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Retro Arcade Feel</h2>
+      <ul>
+        <li>Clean neon-inspired visuals</li>
+        <li>Retro-style soundtrack and effects</li>
+        <li>Fast restarts and instant gameplay</li>
+        <li>Designed for quick sessions or long runs</li>
+      </ul>
+    </div>
+
+    <div class="closing">
+      How far can you climb before one bad shot ends the run?
+    </div>
+
+  </div>
+
+</body>
+</html>
